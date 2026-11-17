@@ -11,7 +11,7 @@ Compatible with **Claude Code**, **Cursor**, **Windsurf**, **GitHub Copilot**, *
 Install all skills in this repository at once using [`npx skills`](https://github.com):
 
 ```bash
-npx skills add marvaproject/minecraft-structure-builder --all
+npx skills add marvaproject/minecraft-structure-builder
 ```
 
 Or install a specific skill individually:
